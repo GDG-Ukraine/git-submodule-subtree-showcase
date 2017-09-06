@@ -1,0 +1,12 @@
+[submodule "devfest-ukraine-13"]
+	path = devfest-ukraine-13
+	url = https://github.com/GDG-Ukraine/devfest-ukraine-13
+[submodule "devfest-ukraine-14"]
+	path = devfest-ukraine-14
+	url = https://github.com/GDG-Ukraine/devfest-ukraine-14
+[submodule "devfest-ukraine-15"]
+	path = devfest-ukraine-15
+	url = https://github.com/GDG-Ukraine/devfest-ukraine-15
+[submodule "devfest-ukraine-16"]
+	path = devfest-ukraine-16
+	url = https://github.com/GDG-Ukraine/hoverboard-devfest-ukraine
